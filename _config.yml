@@ -1,10 +1,11 @@
 # SITE SETTINGS
 title: Petridish                        # Title in top navigation bar (navbar) and <head>
 description: Jekyll theme for research project websites # Site description in <head>
-author: Peter Desmet                    # Used for copyright statement in footer
-baseurl: "/petridish"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
+author: Nicky Nicolson                    # Used for copyright statement in footer
+baseurl: "/petri-dish"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
+remote_theme: peterdesmet/petridish@2.0
 
 # SOCIAL PROFILES
 email: your.email@example.com           # Social icon in footer
