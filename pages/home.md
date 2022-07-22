@@ -2,7 +2,7 @@
 layout: home
 title: Your research project
 description: Uses an easy to customize theme for its website
-background: /images/christopher-cassidy-6G1XjZ2zUcU-unsplash.jpg
+background: /images/Echinopsis_calochlora_2019-12-13_6735.jpg
 permalink: /
 ---
 
