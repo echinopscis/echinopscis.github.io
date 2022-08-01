@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Your research project
-description: Uses an easy to customize theme for its website
+title: echinopscis
+description: An extensible notebook for open science
 background: /images/Echinopsis_calochlora_2019-12-13_6735.jpg
 permalink: /
 ---
