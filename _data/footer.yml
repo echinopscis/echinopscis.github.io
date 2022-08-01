@@ -5,10 +5,10 @@
 columns:
   - description:
     links:
-    - text: RBG Kew: Accelerated taxonomy
+    - text: "RBG Kew: Accelerated taxonomy"
       href: https://www.kew.org/science/our-science/departments/accelerated-taxonomy
       new_window: true
-    - text: RBG Kew: Digital revolution
+    - text: "RBG Kew: Digital revolution"
       href: https://www.kew.org/science/our-science/departments/digital-revolution
       new_window: true
 
