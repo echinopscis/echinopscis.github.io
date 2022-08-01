@@ -1,10 +1,9 @@
 # Project team members listed below will appear on the /team page
 
 - name: Nicky Nicolson
-  role: Senior research leader, Biodiversity Informatics
+  role: Senior research leader, Biodiversity informatics
   image: https://www.kew.org/sites/default/files/styles/person_node/public/2019-02/Nicky%20Nicolson.jpg
   description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
   orcid: 0000-0003-3700-4884
   researchgate: 
   twitter: nickynicolson
@@ -16,8 +15,10 @@
   image: https://www.kew.org/sites/default/files/styles/person_node/public/2019-02/Eve%20Lucas.jpg
   description: >
       Research interests in Myrtaceae systematics, evolution, ecology, conservation, and tropical forests. Convenor of the Digital Revolution / Accelerated taxonomy working group.
-
+  orcid: 0000-0002-7603-435X
+  
 - name: Tuula Niskanen
   role: Research leader, Accelerated taxonomy
   image: https://www.kew.org/sites/default/files/styles/person_node/public/2022-05/Tuula-Niskanen.jpg
   description: Research interests in Cortinariaceae (Agaricales, Basidiomycota).
+  orcid: 0000-0003-1479-5548
