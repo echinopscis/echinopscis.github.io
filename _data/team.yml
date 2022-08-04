@@ -3,22 +3,29 @@
 - name: Nicky Nicolson
   role: Senior research leader, Biodiversity informatics
   image: https://www.kew.org/sites/default/files/styles/person_node/public/2019-02/Nicky%20Nicolson.jpg
-  description: > # Can be Markdown
   orcid: 0000-0003-3700-4884
-  researchgate: 
   twitter: nickynicolson
   github: nickynicolson
   email: n.nicolson@kew.org
+  researchgate: Nicky-Nicolson-2111484704
 
 - name: Eve Lucas
-  role: Research leader, Accelerated taxonomy
+  role: Research leader, Accelerated taxonomy (Integrated monography)
   image: https://www.kew.org/sites/default/files/styles/person_node/public/2019-02/Eve%20Lucas.jpg
-  description: >
-      Research interests in Myrtaceae systematics, evolution, ecology, conservation, and tropical forests. Convenor of the Digital Revolution / Accelerated taxonomy working group.
   orcid: 0000-0002-7603-435X
+  researchgate: Eve-Lucas-29430502
   
 - name: Tuula Niskanen
-  role: Research leader, Accelerated taxonomy
+  role: Research leader, Accelerated taxonomy (Fungal Diversity and Systematics)
   image: https://www.kew.org/sites/default/files/styles/person_node/public/2022-05/Tuula-Niskanen.jpg
-  description: Research interests in Cortinariaceae (Agaricales, Basidiomycota).
   orcid: 0000-0003-1479-5548
+  researchgate: Tuula-Niskanen
+
+- name: Eduardo Toldeo
+  role: Science development team leader, Scientific software and advanced computing 
+  image: https://pbs.twimg.com/profile_images/1329903656548831235/I2W0IEjk_400x400.jpg
+  
+- name: Iain Darbyshire
+  role: Research leader, Accelerated taxonomy (Africa)
+  image: https://www.kew.org/sites/default/files/styles/person_node/public/2019-02/Iain Darbyshire.jpg
+  researchgate: Iain-Darbyshire
