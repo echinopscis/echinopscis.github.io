@@ -6,16 +6,16 @@ background: /images/Echinopsis_calochlora_2019-12-13_6735.jpg
 permalink: /
 ---
 
-"echinopscis" is an experiment in creating a working environment that allows researchers to write, access data and create links between literature, specimens, names, institutions, people, traits etc.
+"echinopscis" is an experiment in creating an "extensible notebook for open science" - a working environment that allows researchers to write, access data and create links between literature, specimens, names, institutions, people, traits etc.
 
-# Key principles:
+## Key principles:
 
-- **Control of your data**: as a researcher, you remain in control of your data. The data is stored in plain text format, on your local machine
+- **Control of your data**: as a researcher, you remain in control of your data. The data is stored in text format, on your local machine. Text files are an open format, they will always be accessible without any need for specialised software.
 - **Open to choose your working practices**: we've provided small pieces of functionality that can be combined in many different ways, enabling researchers to be "open to choose" how to organise their work.
 - **Re-usable skills**: any skills necessary to work with this toolkit should be transferable to other open science tools and practices. If you invest in time exploring this prototype software, the things you learn (markdown formatting, bibliography / citation management, document production etc) could also be applied elsewhere in your work, or in other working environments.
-- **Open science**: All code and documentation (and this project site) are managed on [github](https://github.com/echinopscis).
+- **Open science**: All code and documentation (and this project site) are managed on [github](https://github.com/echinopscis) and contributions are welcome.
 
-# Try it out:
+## Try it out:
 
 1. [Download](https://obsidian.md/download) and install Obsidian for your operating system. 
 1. [Download](https://github.com/echinopscis/echinopscis-sample-vault/releases/download/v0.0.1/echinopscis.zip) this sample vault (zipped) and extract to a directory on your computer.
