@@ -52,3 +52,5 @@ defaults:
       path: ""
     values:
       layout: "default"                 # Only required for Petridish website, implied for sites using a theme
+      background: /images/Echinopsis_calochlora_2019-12-13_6735.jpg
+

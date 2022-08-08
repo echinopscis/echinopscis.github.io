@@ -1,7 +1,6 @@
 ---
 title: Resources
 description: Useful resources for working with Obsidian
-background: https://images.unsplash.com/photo-1609456878306-592aa2bc0eed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTJ8fGJpcmRzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&crop=top&w=1200&h=600&q=80
 permalink: /resources/
 toc: true
 ---
