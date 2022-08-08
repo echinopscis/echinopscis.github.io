@@ -1,46 +1,20 @@
 ---
 title: Installation
-description: How to start your website and use Petridish.
+description: How to install Obsidian and echinopscis
 background: https://images.unsplash.com/photo-1609456878306-592aa2bc0eed?ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTJ8fGJpcmRzfGVufDB8MHwwfHw%3D&auto=format&fit=crop&crop=top&w=1200&h=600&q=80
 permalink: /installation/
 toc: true
 ---
 
-## Create a site from scratch (recommended)
+1. [Download](https://github.com/echinopscis/echinopscis-sample-vault/releases/download/v0.0.1/echinopscis.zip) the echinopscis sample vault (zipped and pre-configured with plugins for data access and visualisation of biodiversity informatics data), and extract to a directory on your computer.
+1. [Download](https://obsidian.md/download) and install Obsidian for your operating system. 
+1. Launch Obsidian. You will be given three options, to: 
 
-This method creates a clean repository without unnecessary files. You can then **add** more content and settings.
+    - Create a new vault ("vault" is the Obsidian term for a workspace or project; the contents of a vault are "pages", arranged into "folders")
+    - Open a folder as a vault
+    - Open a remote vault. 
 
-1. Follow the [GitHub Pages instructions](https://pages.github.com/) to create a website on GitHub (select `Project site` and `Choose a theme`).
-2. Go to `_config.yml` in your repository and replace `theme: ...` with:
+    Select the middle option: "Open folder as vault". Choose the echinopscis sample vault that you extracted in step 1. You will be asked to confirm that you trust the author of the vault, so that plugins can be enabled, click  "Trust author and enable plugins". Obsidian will show you a list of the plugins contained in the vault, you can exit this listing using the <kbd>Esc</kbd> key
 
-    ```yml
-    remote_theme: peterdesmet/petridish@2.0
-    ```
-
-3. Check your site at `http://username.github.io/repository` (give it a minute to rebuild).
-4. See [configuration]({{ 'configuration' | relative_url }}) to add more elements to your site.
-
-## Create a site from the Petridish repository
-
-This method gives you a copy of the Petridish repository and website. You can then **update** content and settings, and **remove** all the files you don't need.
-
-1. Go to the [Petridish repository](https://github.com/peterdesmet/petridish/) and click the green button `Use this template`. Give your repository a name and description (can be changed later).
-2. Go to your repository settings and enable GitHub Pages (`http://github.com/username/repository/settings/pages`). Use the `master` branch as source.
-3. Check your site at `http://username.github.io/repository` (give it a minute to build).
-4. See [configuration]({{ 'configuration' | relative_url }}) to update elements of your site.
-5. Since you copied the Petridish repository, the theme is verbosely included. If you opt to make use of the `remote_theme` option described above, you can safely remove:
-
-    ```
-    _includes/
-    _layouts/
-    _sass/
-    assets/theme/
-    package-lock.json
-    package.json
-    petridish.gemspec
-    screenshot.png
-    ```
-
-## Install Petridish as gem-based theme
-
-If you do not what to use `remote_theme`, see the [Jekyll documentation](https://jekyllrb.com/docs/themes/#understanding-gem-based-themes) to install (gem-based) themes.
+1. Explore - or work through the steps listed from the "start here" page which should be listed in the navigation panel on the left of the window. (Note: If you have Obsidian installed and have opened the echinopscis sample vault, then you can open the "start here" page with [this link](obsidian://open?vault=echinopscis&file=start%20here))
+1. (Optional) - install a browser bookmark that can be used to save web content (complete pages or selected text) to Obsidian - drag this link: <a href='javascript:Promise.all([import("https://unpkg.com/turndown@6.0.0?module"),import("https://unpkg.com/@tehshrike/readability@0.2.0"),]).then(async([{default:e},{default:f}])=>{function g(){var a="";if(void 0!==window.getSelection){var b=window.getSelection();if(b.rangeCount){for(var d=document.createElement("div"),c=0,e=b.rangeCount;c<e;++c)d.appendChild(b.getRangeAt(c).cloneContents());a=d.innerHTML}}else void 0!==document.selection&&"Text"==document.selection.type&&(a=document.selection.createRange().htmlText);return a}let a=g(),{title:b,byline:h,content:i}=new f(document.cloneNode(!0)).parse();function j(a){window.navigator.userAgent;var b=window.navigator.platform;return a=-1!==["Win32","Win64","Windows","WinCE"].indexOf(b)?a.replace(":","").replace(/[/\\?%*|"<>]/g,"-"):a.replace(":","").replace(/\//g,"-").replace(/\\/g,"-")}let k=j(b);if(a)var c,d=a;else var d=i;var c="";let l=new e({headingStyle:"atx",hr:"---",bulletListMarker:"-",codeBlockStyle:"fenced",emDelimiter:"*"}).turndown(d);var m=new Date;function n(a){var f=a.getFullYear().toString(),b=(a.getMonth()+1).toString(),c=a.getDate().toString(),d=b.split(""),e=c.split("");return f+"-"+(d[1]?b:"0"+d[0])+"-"+(e[1]?c:"0"+e[0])}let o=n(m),p="author:: "+h+"\nsource:: ["+b+"]("+document.URL+")\nclipped:: [["+o+"]]\npublished:: \n\n#clippings\n\n"+l;document.location.href="obsidian://new?file="+encodeURIComponent(""+k)+"&content="+encodeURIComponent(p)+c})'>Send to Obsidian</a> to your browser toolbar. ([web clipper](https://gist.github.com/kepano/90c05f162c37cf730abb8ff027987ca3) by [@kepano](https://github.com/kepano))
