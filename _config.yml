@@ -47,6 +47,8 @@ defaults:
       type: "posts"
     values:
       permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
+      background: "/images/Echinopsis_calochlora_2019-12-13_6735.jpg"
+
   -
     scope:
       path: ""
