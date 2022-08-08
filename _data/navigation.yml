@@ -6,14 +6,20 @@
   href: /team/
 - text: Blog
   href: /blog/
-- text: Documentation
+- text: Project
   menu: # Dropdown menu (one level deep only)
   - text: Installation
     href: /installation/
+  - text: Background
+    href: /background/
+  - text: Roadmap
+    href: /roadmap/
   - text: Resources
     href: /resources/
   - text: Contributing
     href: /contributing/
+  - text: Acknowledgements
+    href: /acknowledgements/
   - text: echinopscis on github
     href: https://github.com/echinopscis
     new_window: true
