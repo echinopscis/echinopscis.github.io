@@ -7,7 +7,8 @@ toc: true
 
 We welcome contributions - and these don't have to be technical in nature - feature requests, questions and suggestions are all helpful. These are all managed as github issues - so you'll need to [sign up for a github login](https://github.com/signup), and then you can add issues or comment on existing discussions.
 
-Ideas for potential contributions:
+## Ideas for potential contributions
+
 - Evaluation of the software using an existing group of collaborators
 - Documentation of working practices - especially those defining information resources that need to be searched and linked, and data repositories which need to be populated as part of the publication process
 - Definition of requirements
