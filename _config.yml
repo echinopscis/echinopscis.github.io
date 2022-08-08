@@ -2,7 +2,7 @@
 title: echinopscis                        # Title in top navigation bar (navbar) and <head>
 description: An extensible notebook for open science # Site description in <head>
 author: Nicky Nicolson                    # Used for copyright statement in footer
-baseurl: "/petri-dish"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
+#baseurl: "/petri-dish"                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
                                         # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
                                         # A baseurl affects internal links, see http://peterdesmet.github.io/petridish/markdown/#links
 remote_theme: peterdesmet/petridish@2.0
