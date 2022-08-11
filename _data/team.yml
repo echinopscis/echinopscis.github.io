@@ -12,22 +12,7 @@
   role: Research leader, Accelerated taxonomy (Integrated monography)
   image: https://www.kew.org/sites/default/files/styles/person_node/public/2019-02/Eve%20Lucas.jpg
   orcid: 0000-0002-7603-435X
-  
-- name: Tuula Niskanen
-  role: Research leader, Accelerated taxonomy (Fungal Diversity and Systematics)
-  image: https://www.kew.org/sites/default/files/styles/person_node/public/2022-05/Tuula-Niskanen.jpg
-  orcid: 0000-0003-1479-5548
-  researchgate: Tuula-Niskanen
-
-- name: Eduardo Toldeo
-  role: Team leader, Scientific software and advanced computing 
-  image: https://pbs.twimg.com/profile_images/1329903656548831235/I2W0IEjk_400x400.jpg
-  
-- name: Iain Darbyshire
-  role: Research leader, Accelerated taxonomy (Africa)
-  image: https://www.kew.org/sites/default/files/styles/person_node/public/2019-02/Iain Darbyshire.jpg
-  researchgate: Iain-Darbyshire
-  
+    
 - name: Isabel Larridon
   role: Research leader, Accelerated taxonomy (Africa)
   image: https://www.kew.org/sites/default/files/styles/person_node/public/2019-07/JE_270619_2042_IsabelLarrindon_sq_0.jpg
