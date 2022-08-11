@@ -2,7 +2,6 @@
 layout: home
 title: echinopscis
 description: An extensible notebook for open science
-background: /images/Echinopsis_calochlora_2019-12-13_6735.jpg
 permalink: /
 ---
 
