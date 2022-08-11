@@ -47,7 +47,7 @@ defaults:
       type: "posts"
     values:
       permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts
-      background: "/images/Echinopsis_calochlora_2019-12-13_6735.jpg"
+      background: "/assets/backgrounds/Echinopsis_calochlora_2019-12-13_6735.jpg"
       background_alt: "Image credit: https://commons.wikimedia.org/wiki/User:Salicyna (CC-BY-SA4)"
 
   -
@@ -55,6 +55,6 @@ defaults:
       path: ""
     values:
       layout: "default"                 # Only required for Petridish website, implied for sites using a theme
-      background: "/images/Echinopsis_calochlora_2019-12-13_6735.jpg"
+      background: "/assets/backgrounds/Echinopsis_calochlora_2019-12-13_6735.jpg"
       background_alt: "Image credit: https://commons.wikimedia.org/wiki/User:Salicyna (CC-BY-SA4)"
 
