@@ -1,6 +1,6 @@
 ---
 title: Ebbe Neilsen Challenge 2022
-date: 2022-08-14 18:00
+date: 2022-08-12 12:00
 categories: [News]
 ---
 
@@ -29,7 +29,7 @@ This project has been submitted as an entry in the [GBIF][gbif] [Ebbe Neilsen Ch
 > 1. Dataset production: tools to process markdown and YAML frontmatter to DarwinCore
 	- Supports: *researchers* (micro-publishing of datasets), *data managers* (enhanced data linkage) *data publishers* (more complete data environment).
 >
-> The main principle has been to recognise that research is a creative process, and that researchers must be "open to choose" how they organise their work. With this in mind, though we aim to support "usage profiles" which can help create, collaborate and publish research works and datasets, the technical contributions underpinning these will form a small toolkit which can be delivered incrementally and re-assembled in different ways to support a variety of different working patterns. We are wary of proposing any solutions with onerous signup requirements or a steep learning curve; we want to ensure that any skills necessary to work with this toolkit should be transferable to other open science tools and practices.
+> The main principle has been to recognise that research is a creative process, and that researchers must be "open to choose" how they organise their work. With this in mind, though we aim to support "usage profiles" which can help create, collaborate and publish research works and datasets, the technical contributions underpinning these will form a small toolkit which can be delivered incrementally and re-assembled in different ways to support a variety of different working patterns. We don't want to propose any solutions with complex signup requirements or a steep learning curve; we want to ensure that any skills necessary to work with this toolkit will be transferable to other open science tools and practices.
 > 
 > As workers active in botany and informatics, we consider the development of this toolkit as fundamental to e-taxonomic undertakings to build an online reference system in which all known plant species are described, as well as to significant acceleration of parts of the taxonomic process to address the biodiversity crisis.
 >
