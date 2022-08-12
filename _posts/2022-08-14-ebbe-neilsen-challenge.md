@@ -7,6 +7,7 @@ categories: [News]
 This project has been submitted as an entry in the [GBIF][gbif] [Ebbe Neilsen Challenge 2022][enc].
 
 **Team** Nicky Nicolson<sup>1</sup>, Isabel Larridon<sup>2</sup>, Eve Lucas<sup>2</sup> 
+
 (1) RBG Kew, Digital revolution, (2) RBG Kew, Accelerated taxonomy
 
 **Abstract**
