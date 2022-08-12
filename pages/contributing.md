@@ -9,7 +9,7 @@ We welcome contributions - and these don't have to be technical in nature - feat
 
 ## Ideas for potential contributions
 
-- Evaluation of the software using an existing group of collaborators
+- Evaluation of the software as a tool for research management, either as a lone researcher or with a group of collaborators
 - Documentation of working practices - especially those defining information resources that need to be searched and linked, and data repositories which need to be populated as part of the publication process
 - Definition of requirements
 - Plugin development, e.g.:
@@ -17,8 +17,9 @@ We welcome contributions - and these don't have to be technical in nature - feat
 - Development of quickadd scripts and templates, e.g.:
 	- Quickadd plugin to access genomic resources
 - Documentation of useful plugins, or how to configure / use in different ways, e.g.:
-	- Display of TDWG World Geographical Scheme for Recording Plant Distributions polygons on leaflet map
+	- Evaluation of different graph / network display plugins (e.g. [Juggl](https://github.com/HEmile/juggl))
+	- Display of [TDWG World Geographical Scheme for Recording Plant Distributions](https://github.com/jiacona/tdwg-geojson) polygons on [leaflet map](https://github.com/valentine195/obsidian-leaflet-plugin)
 - Evaluation of alternative personal knowledge management software - alternatives to Obsidian such as [logseq](https://logseq.com/) etc. 
 
 ## Why use github?
-Our colleagues at [GBIF](https://github.com/GBIF), [Atlas of Living Australia](https://github.com/AtlasOfLivingAustralia), [iDigBio](https://github.com/iDigBio), [Biodiversity Information Standards (TDWG)](https://github.com/TDWG) and many other organisations use github to manage their projects  - including documentation and community-building as well as the management of technical resources like source code. If you've ever submitted feedback or reported a problem via the  GBIF data portal, your report would have resulted in a ["portal-feedback"](https://github.com/gbif/portal-feedback) github issue, meaning that other users have maximum visibility of known issues, work-arounds and fixes. Management of issues and proposed features "in the open" also enables users to participate in prioritisation. The github environment is well-documented and many open science curricula cover the usage basics. In the future, if it is necessary to move from github to a different platform, we would be able to collaborate and learn from our colleagues about how best to do this.  
+Our colleagues at [GBIF](https://github.com/GBIF), [Atlas of Living Australia](https://github.com/AtlasOfLivingAustralia), [iDigBio](https://github.com/iDigBio), [Biodiversity Information Standards (TDWG)](https://github.com/TDWG) and many other organisations use github to manage their projects  - including documentation and community-building as well as the management of technical resources like source code. If you've ever submitted feedback or reported a problem via the  GBIF data portal, your report would have resulted in a ["portal-feedback"](https://github.com/gbif/portal-feedback) github issue, meaning that other users have maximum visibility of known issues, work-arounds and fixes. Management of issues and proposed features "in the open" also enables users to participate in prioritisation. The github environment is well-documented and many open science resources are available which explain how to use it. In the future, if it is necessary to move from github to a different platform, we would be able to collaborate and learn from our colleagues about how best to do this.  
