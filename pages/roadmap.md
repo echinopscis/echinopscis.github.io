@@ -5,8 +5,10 @@ permalink: /roadmap/
 toc: true
 ---
 
-Phase 1 has been aimed at delivering an exploratory research working environment. We're planning to further develop this work, and extend it to fit with later stages of the research process:
+The current work has been an experiment in delivering a research working environment. We hope to further develop this work, and extend it to fit with later stages of the research process:
 
-- Collaboration and web publishing: echinopscis-web
-- Document publishing: echinopscis-publish
-- Data publishing: echinopscis-data
+1. **Personal research environment** based on Markdown authoring and linking (current focus)
+1. **Web publication** using static site generators: Obsidian generated markdown can be processed to generate a static website. We see conceptual similarities with the [GBIF hosted portal](https://www.gbif.org/hosted-portals) work here.
+1. **Document production**: pipelines to process markdown and structured bibliographic/specimen references to document formats like Word, PDF and HTML.
+1. **Dataset production**: tools to process markdown and YAML frontmatter to DarwinCore.
+    
