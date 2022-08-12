@@ -5,7 +5,7 @@ permalink: /installation/
 toc: true
 ---
 
-1. [Download](https://github.com/echinopscis/echinopscis-sample-vault/archive/refs/tags/v0.1.1.zip) the echinopscis sample vault. ("Vault" is the Obsidian term for a workspace or project; the contents of a vault are "pages", arranged into "folders"). This vault is zipped and pre-configured with plugins for data access and visualisation of biodiversity informatics data. When the download is complete, you should extract the zip file to a directory on your computer.
+1. [Download](https://github.com/echinopscis/echinopscis-sample-vault/archive/refs/tags/v0.1.2.zip) the echinopscis sample vault. ("Vault" is the Obsidian term for a workspace or project; the contents of a vault are "pages", arranged into "folders"). This vault is zipped and pre-configured with plugins for data access and visualisation of biodiversity informatics data. When the download is complete, you should extract the zip file to a directory on your computer.
 1. [Download](https://obsidian.md/download) and install Obsidian for your operating system. 
 1. Launch Obsidian. You will be given three options, to: 
 
