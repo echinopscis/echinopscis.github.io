@@ -13,7 +13,7 @@ toc: true
     - Open a folder as a vault
     - Open a remote vault. 
 
-    Select the middle option: "Open folder as vault". Choose the directory that you extracted in step 1. 
+    Select the middle option: "Open folder as vault". Choose the directory that you extracted in step 2. 
     
     **Security**: You will be asked to confirm that you trust the author of the vault, so that plugins can be enabled. Click  "Trust author and enable plugins". You will be shown a list of the plugins contained in the vault, you can exit this listing using the <kbd>Esc</kbd> key.
     - **Note for users of older versions of Obsidian**: this message may be titled "Safe mode" and ask if you wish to disable safe mode and enable third party plugins. Click "Turn off safe mode".
