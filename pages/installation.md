@@ -19,4 +19,5 @@ toc: true
     - **Note for users of older versions of Obsidian**: this message may be titled "Safe mode" and ask if you wish to disable safe mode and enable third party plugins. Click "Turn off safe mode".
 1. Explore - or work through the steps listed in the pinned "start here" page.
 
+**Note**: a longer version of these instructions (aimed at Windows users) with a screenshot at each step is available [here]{{ site.baseurl }}{% link /installation-windows.md %} 
 
