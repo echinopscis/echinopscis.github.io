@@ -1,6 +1,6 @@
 ---
-title: Installation on windows with screen shots
-description: How to install Obsidian and echinopscis on windows, with a screenshot at each step
+title: Installation on windows
+description: How to install Obsidian and echinopscis on windows, with screenshots
 permalink: /installation-windows/
 toc: true
 ---
@@ -26,6 +26,6 @@ toc: true
 1. You will be shown a list of plugins contained in the system. You can exit this listing with the <kbd>Esc</kbd> key
 ![Obsidian plugin listing](/assets/images/install-08.png)
 
-1. You should now the a "start here" page which contains a set of steps that form a worked example. These instructions are "pinned" so that  they remain visible in the lefthand pane, whilst you create and navigate to new pages in the pane on the right. 
+1. **Congratulations!** You've installed and launched the system. You should now the a "start here" page which contains a set of steps that form a worked example. These instructions are "pinned" so that  they remain visible in the lefthand pane, whilst you create and navigate to new pages in the pane on the right. 
 ![echinopscis start here page](/assets/images/install-09.png)
 
