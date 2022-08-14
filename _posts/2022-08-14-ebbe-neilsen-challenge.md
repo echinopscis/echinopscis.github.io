@@ -2,6 +2,7 @@
 title: Ebbe Neilsen Challenge 2022
 date: 2022-08-12 12:00
 categories: [News]
+driveId: 18wpwlV4uU5QfM_6YeQrptyvOlvL82OR4
 ---
 
 This project has been submitted as an entry in the [GBIF][gbif] [Ebbe Neilsen Challenge 2022][enc].
@@ -12,7 +13,7 @@ This project has been submitted as an entry in the [GBIF][gbif] [Ebbe Neilsen Ch
 
 **Overview video**
 
-<iframe src="https://drive.google.com/file/d/18wpwlV4uU5QfM_6YeQrptyvOlvL82OR4/preview" width="640" height="480" allow="autoplay"></iframe>
+{% include googleDrivePlayer.html id=page.driveId %}
 
 **Abstract**
 > As a biodiversity informatics community, we've mobilised and interconnected a wide array of information, including specimen collections, published literature and metadata resources which compile facts about collections and the people that work with them. We’ve defined data standards to facilitate data interoperability and tools development. Along with colleagues in allied research disciplines, we’ve helped develop training resources, enabling researchers to automate routine tasks like data access and reference management. We've also started to explore how we could realise the vision of the digital extended specimen, which would integrate specimens and associated data across multiple research infrastructures, allowing the investigation of wider scale research questions. How this would be achieved is still the subject of discussion and experimentation: an open community will support a diverse range of approaches.  
