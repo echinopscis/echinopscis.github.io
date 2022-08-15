@@ -1,7 +1,7 @@
 ---
 layout: home
 title: echinopscis
-description: An extensible notebook for open science
+description: An extensible notebook for open science on specimens
 permalink: /
 ---
 
