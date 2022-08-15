@@ -5,7 +5,7 @@ permalink: /installation-windows/
 toc: true
 ---
 
-1. Download Obsidian. The site will detect your operating system and suggest a download appropriately
+1. Download Obsidian (available for Windows, Mac and Linux distributions).
 ![Obsidian download page](/assets/images/install-01.png)
 
 1. Download the echinopscis sample vault
