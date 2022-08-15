@@ -2,16 +2,21 @@
 title: Ebbe Neilsen Challenge 2022
 date: 2022-08-12 12:00
 categories: [News]
+vimeoId: 739578974
 ---
 
-This project has been submitted as an entry in the [GBIF][gbif] [Ebbe Neilsen Challenge 2022][enc].
+This project "echinopscis: an extensible notebook for open science on specimens" has been submitted as an entry in the [GBIF][gbif] [Ebbe Neilsen Challenge 2022][enc].
 
-**Team** Nicky Nicolson<sup>1</sup>, Isabel Larridon<sup>2</sup>, Eve Lucas<sup>2</sup> 
+## Team
+Nicky Nicolson<sup>1</sup>, Isabel Larridon<sup>2</sup>, Eve Lucas<sup>2</sup> 
 
 (1) RBG Kew, Digital revolution, (2) RBG Kew, Accelerated taxonomy
 
+## Introduction video
 
-**Abstract**
+{% include vimeoPlayer.html id=page.vimeoId %}
+
+## Abstract
 > As a biodiversity informatics community, we've mobilised and interconnected a wide array of information, including specimen collections, published literature and metadata resources which compile facts about collections and the people that work with them. We’ve defined data standards to facilitate data interoperability and tools development. Along with colleagues in allied research disciplines, we’ve helped develop training resources, enabling researchers to automate routine tasks like data access and reference management. We've also started to explore how we could realise the vision of the digital extended specimen, which would integrate specimens and associated data across multiple research infrastructures, allowing the investigation of wider scale research questions. How this would be achieved is still the subject of discussion and experimentation: an open community will support a diverse range of approaches.  
 >
 > In the construction of the digital extended specimen - linking together specimens and their uses - we can envision useful activities operating at very different scales: from large scale computational processes run at (or between) research infrastructures, to an ecosystem of lightweight tools that support link construction in context, closer to researchers. A flexible editing environment enabling in-context link construction could make a contribution similar to that of [Open Refine](https://openrefine.org/), which has been effective at democratizing data manipulation and cleaning. We also recognise that expert created links could supply valuable training data for the development of machine learning approaches, which will be needed to achieve data linkage at scale.  

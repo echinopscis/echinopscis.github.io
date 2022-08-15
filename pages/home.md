@@ -3,9 +3,14 @@ layout: home
 title: echinopscis
 description: An extensible notebook for open science
 permalink: /
+vimeoId: 739578974
 ---
 
-"echinopscis" is an experiment in creating an "extensible notebook for open science" - a working environment that allows researchers to write, access data and create links between literature, specimens, names, institutions, people, traits etc.
+"echinopscis" is an experiment in creating an "extensible notebook for open science on specimens" - a working environment that allows researchers to write, access data and create links between literature, specimens, names, institutions, people, traits etc.
+
+## Introduction 
+
+{% include vimeoPlayer.html id=page.vimeoId %}
 
 ## Key principles:
 
