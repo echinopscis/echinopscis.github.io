@@ -12,7 +12,7 @@ columns:
       href: https://www.kew.org/science/our-science/departments/digital-revolution
       new_window: true
 
-  - description: "echinopscis: an extensible notebook for open science."
+  - description: "echinopscis: an extensible notebook for open science on specimens."
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
