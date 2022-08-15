@@ -1,11 +1,11 @@
 ---
-title: Ebbe Neilsen Challenge 2022
+title: Ebbe Nielsen Challenge 2022
 date: 2022-08-12 12:00
 categories: [News]
 vimeoId: 739578974
 ---
 
-This project "echinopscis: an extensible notebook for open science on specimens" has been submitted as an entry in the [GBIF][gbif] [Ebbe Neilsen Challenge 2022][enc].
+This project "echinopscis: an extensible notebook for open science on specimens" has been submitted as an entry in the [GBIF][gbif] [Ebbe Nielsen Challenge 2022][enc].
 
 ## Team
 Nicky Nicolson<sup>1</sup>, Isabel Larridon<sup>2</sup>, Eve Lucas<sup>2</sup> 
@@ -45,4 +45,4 @@ Nicky Nicolson<sup>1</sup>, Isabel Larridon<sup>2</sup>, Eve Lucas<sup>2</sup>
 
 [gbif]: https://gbif.org
 [enc]:  https://www.gbif.org/news/77jGLQMqzZtjQi10AxAgrY/2022-ebbe-nielsen-challenge-seeks-open-data-innovations-for-biodiversity
-[enc-appl]: https://github.com/echinopscis/ebbe-neilsen-application
+[enc-appl]: https://github.com/echinopscis/ebbe-nielsen-application
