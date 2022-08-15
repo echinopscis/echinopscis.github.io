@@ -4,12 +4,12 @@
   href: /
 - text: Team
   href: /team/
+- text: Installation
+  href: /installation/
 - text: Blog
   href: /blog/
 - text: Project
   menu: # Dropdown menu (one level deep only)
-  - text: Installation
-    href: /installation/
   - text: Background
     href: /background/
   - text: Roadmap
