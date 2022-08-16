@@ -38,10 +38,6 @@ Nicky Nicolson<sup>1</sup>, Isabel Larridon<sup>2</sup>, Eve Lucas<sup>2</sup>
 >
 > Our aim is to experiment, hear different views and to understand researchers and technologists needs. We anticipate these including areas such as community development, technical software development, and construction of exemplar datasets and training resources. We've been selected to participate in the sixth [Open Life Sciences (OLS)](https://openlifesci.org/) cohort, which helps projects apply open principles in their work, with an emphasis on community building and inclusivity. We look forward to using these techniques to explore this topic with our current (and future) colleagues.
 
-## Introduction video
-
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/739578974?h=5211c95c9d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="echinopscis-intro.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
-
 [gbif]: https://gbif.org
 [enc]:  https://www.gbif.org/news/77jGLQMqzZtjQi10AxAgrY/2022-ebbe-nielsen-challenge-seeks-open-data-innovations-for-biodiversity
 [enc-appl]: https://github.com/echinopscis/ebbe-nielsen-application
