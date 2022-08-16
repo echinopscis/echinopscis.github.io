@@ -12,10 +12,6 @@ Nicky Nicolson<sup>1</sup>, Isabel Larridon<sup>2</sup>, Eve Lucas<sup>2</sup>
 
 (1) RBG Kew, Digital revolution, (2) RBG Kew, Accelerated taxonomy
 
-## Introduction video
-
-{% include vimeoPlayer.html id=page.vimeoId %}
-
 ## Abstract
 > As a biodiversity informatics community, we've mobilised and interconnected a wide array of information, including specimen collections, published literature and metadata resources which compile facts about collections and the people that work with them. We’ve defined data standards to facilitate data interoperability and tools development. Along with colleagues in allied research disciplines, we’ve helped develop training resources, enabling researchers to automate routine tasks like data access and reference management. We've also started to explore how we could realise the vision of the digital extended specimen, which would integrate specimens and associated data across multiple research infrastructures, allowing the investigation of wider scale research questions. How this would be achieved is still the subject of discussion and experimentation: an open community will support a diverse range of approaches.  
 >
@@ -42,6 +38,9 @@ Nicky Nicolson<sup>1</sup>, Isabel Larridon<sup>2</sup>, Eve Lucas<sup>2</sup>
 >
 > Our aim is to experiment, hear different views and to understand researchers and technologists needs. We anticipate these including areas such as community development, technical software development, and construction of exemplar datasets and training resources. We've been selected to participate in the sixth [Open Life Sciences (OLS)](https://openlifesci.org/) cohort, which helps projects apply open principles in their work, with an emphasis on community building and inclusivity. We look forward to using these techniques to explore this topic with our current (and future) colleagues.
 
+## Introduction video
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/739578974?h=5211c95c9d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="echinopscis-intro.mp4"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 [gbif]: https://gbif.org
 [enc]:  https://www.gbif.org/news/77jGLQMqzZtjQi10AxAgrY/2022-ebbe-nielsen-challenge-seeks-open-data-innovations-for-biodiversity
