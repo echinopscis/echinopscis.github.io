@@ -51,7 +51,7 @@ defaults:
       background: "/assets/backgrounds/Echinopsis_calochlora_2019-12-13_6735.jpg"
       background_alt: "Image credit: https://commons.wikimedia.org/wiki/User:Salicyna (CC-BY-SA4)"
       echinopscis_version: "0.1.7"
-      
+      comments: true
   -
     scope:
       path: ""
