@@ -10,6 +10,7 @@ remote_theme: peterdesmet/petridish@2.0
 # SOCIAL PROFILES
 email: n.nicolson@kew.org           # Social icon in footer
 twitter_username: nickynicolson           # Social icon in footer
+twitter_image: /assets/images/twitter_card.png
 github_username: nickynicolson            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
