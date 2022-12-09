@@ -5,10 +5,10 @@ description: Slide layout template
 <div class="row">
 
   <div class="col-md-10 col-lg-8 order-lg-first mx-auto">
-
     {% if page.vimeo_link %}
       <iframe src="{{ page.vimeo_link }}" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
     {% endif %}
+  </div>
 
     {% for item in page.slides %}
       <div class="slide">
@@ -36,5 +36,5 @@ description: Slide layout template
             async>
         </script>
     {% endif %}
-  </div>
+
 </div>
