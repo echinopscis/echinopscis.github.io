@@ -2,17 +2,17 @@
 title: Biodiversity Information Standards lightning talk
 date: 2022-10-18 12:00
 categories: [Talks]
-twitter_description: "Post describing how an animated build of a research environment network was created, as part of a digitisation demonstration."
+twitter_description: 'Video and annotated slide deck for lightning talk "Open science tools: Supporting hands-on creation of the \"digital extended specimen\"" from the Biodiversity Information Standards 2022 conference in Sofia, Bulgaria.'
 layout: slides
 slides:
   - img: /assets/images/tdwg2022-ltd14/Slide1.PNG
     img_alt: "Open science tools: Supporting hands-on creation of the “digital extended specimen”"
     notes: |
-      Title slide, work is a collaboration between [Nicky Nicolson](https://www.kew.org/science/our-science/people/nicky-nicolson) (NN) and [Eve Lucas](https://www.kew.org/science/our-science/people/eve-lucas) (EL) both from [Kew Science](https://www.kew.org/science)
+      Work is a collaboration between [Nicky Nicolson](https://www.kew.org/science/our-science/people/nicky-nicolson) (NN) and [Eve Lucas](https://www.kew.org/science/our-science/people/eve-lucas) (EL) both from [Kew Science](https://www.kew.org/science)
   - img: /assets/images/tdwg2022-ltd14/Slide2.PNG
     img_alt: "Explain personal and institutional contexts"
     notes: |
-      Personal context: **NN** transitioned from software development into research, and is interested in how software development practices can be used in research. Institutionally, we have a commitment to accelerate taxonomy using digital practices.
+      Personal context: **NN** transitioned from software development into research, and is interested in how software development practices can be used in research. Institutionally, we have a commitment to accelerate taxonomy using digital practices, and we started a collaborative project to explore this, using institutional knowledge from the e-taxonomic approaches, but exploring what technical advances could be used in e-taxonomy today. 
   - img: /assets/images/tdwg2022-ltd14/Slide3.PNG
     img_alt: "Explain community context"
     notes: |
@@ -39,6 +39,7 @@ slides:
   - img: /assets/images/tdwg2022-ltd14/Slide8.PNG
     img_alt: "Demo screenshot"
     notes: "Demo"
+    video_offset: 8m0
   - img: /assets/images/tdwg2022-ltd14/Slide9.PNG
     img_alt: "Roadmap"
     notes: |

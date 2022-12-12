@@ -15,6 +15,11 @@ description: Slide layout template
       </div>
       <div class="text-muted">
         {{ item.notes | markdownify }}
+        <small>
+          {% if item.video_offset %}
+            Jump to <a href="{{ page.vimeo_link }}?offset={{item.video_offset}}">item.video_offset</a>
+          {% endif %}
+        </small>
       </div>
     </div>
     {% endfor %}
