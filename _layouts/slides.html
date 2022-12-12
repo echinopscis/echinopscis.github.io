@@ -12,9 +12,9 @@ description: Slide layout template
 
     {% for item in page.slides %}
       <div class="slide">
-        <img alt="{{ item.img_alt }}" height="253" loading="lazy" src="{{ item.img }}" style="max-width: 100%;" width="450">
+        <img alt="{{ item.img_alt }}" height="253" loading="lazy" src="{{ item.img }}" width="450">
+        {{ item.notes }}
       </div>
-      <div>{{ item.notes }}</div>
     {% endfor %}
 
     {% if page.comments %}
