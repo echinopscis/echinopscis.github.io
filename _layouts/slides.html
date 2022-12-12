@@ -12,10 +12,8 @@ description: Slide layout template
 
     {% for item in page.slides %}
       <div class="slide">
-        <p>
           <img alt="{{ item.img_alt }}" height="253" loading="lazy" src="{{ item.img }}" width="450">
           {{ item.notes }}
-        </p>
       </div>
     {% endfor %}
 
