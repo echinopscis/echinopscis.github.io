@@ -3,13 +3,16 @@
 # This frontmatter ensures Jekyll reads this file and converts it to slides.css
 ---
 
-.sliderow {
+.slide {
 	border-top: 3px solid #666;
-	display: flex;
-	.slidecol {
-		flex: 40%;
-		img {
-			all: unset;
-		}
-	}
-}
+	margin-bottom: $grid-gutter-width;
+  
+	// Image container
+	.flex-shrink-0 {
+	  width: 450px;
+	  
+	  img {
+		width: 450px;
+	  }
+	}  
+  }

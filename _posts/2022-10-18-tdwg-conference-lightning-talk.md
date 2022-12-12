@@ -12,7 +12,7 @@ slides:
   - img: /assets/images/tdwg2022-ltd14/Slide2.PNG
     img_alt: "Explain personal and institutional contexts"
     notes: |
-      Personal context: NN transitioned from software development into research, and is interested in how software development practices can be used in research. Institutionally, we have a commitment to accelerate taxonomy using digital practices.
+      Personal context: **NN** transitioned from software development into research, and is interested in how software development practices can be used in research. Institutionally, we have a commitment to accelerate taxonomy using digital practices.
   - img: /assets/images/tdwg2022-ltd14/Slide3.PNG
     img_alt: "Explain community context"
     notes: "Moving up to the community in which we work - one of our aims in biodiversity informatics is to build a digital extended specimen, integrating specimens and their derived data across multiple infrastructures, allowing the investigate of wider research questions. A healthy community will support a range of different approaches as we determine how to reach this aim. We can envisage these appraoches as a spectrum from large scale computation approaches that operate on large volumes of aggregated data (like the [GBIF clustering work](https://www.gbif.org/news/4U1dz8LygQvqIywiRIRpAU/new-data-clustering-feature-aims-to-improve-data-quality-and-reveal-cross-dataset-connections)), to a distributed set of lightweight tools that allow users to conduct link construction in context, closer to their day to day work"
@@ -21,10 +21,10 @@ slides:
     notes: "We're focussing on tools for researchers in this project, though we aim that data generated here will feed into more automated approaches"
   - img: /assets/images/tdwg2022-ltd14/Slide5.PNG
     img_alt: "Based on existing software (Obsidian) - its attributes"
-    notes: "We're basing this work on an existing piece of software - <a href='https://obsidian.md'>Obsidian</a>"
+    notes: "We're basing this work on an existing piece of software - [Obsidian](https://obsidian.md)</a>"
   - img: /assets/images/tdwg2022-ltd14/Slide6.PNG
     img_alt: "Attributes should be familiar  - shared with Open Refine"
-    notes: "These attriutes should be familiar as they are shared with a tool which we have adopted with some success in our community: <a href='https://openrefine.org/'>Open Refine</a>. We'd like to investigate if Obsidian plus a set of focussed technical contributions which better enable the tool to work for biodiversity informatics researchers could help us democratise data linkage. We've seen that the use of a generic tool (Open Refine) plus focussed technical contributions and teaching researches has allowed us to democratise data cleaning."
+    notes: "These attriutes should be familiar as they are shared with a tool which we have adopted with some success in our community: [Open Refine](https://openrefine.org/). We'd like to investigate if Obsidian plus a set of focussed technical contributions which better enable the tool to work for biodiversity informatics researchers could help us democratise data linkage. We've seen that the use of a generic tool (Open Refine) plus focussed technical contributions and teaching researches has allowed us to democratise data cleaning."
   - img: /assets/images/tdwg2022-ltd14/Slide7.PNG
     img_alt: "Extend Obsidian for specimen research"
     notes: "What we've done - extended Obsidian for specimen research"

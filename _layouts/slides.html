@@ -8,14 +8,14 @@ description: Slide layout template
   {% endif %}
 </div>
     {% for item in page.slides %}
-      <div class="sliderow">
-          <div class="slidecol">
-            <img alt="{{ item.img_alt }}" height="253" src="{{ item.img }}" width="450">
-          </div>
-          <div class="slidecol">
-            {{ item.notes }}
-          </div>
+    <div class="d-flex slide">
+      <div class="flex-shrink-0 me-3">
+        <img alt="{{ item.img_alt }}" height="253" src="{{ item.img }}" width="450">
       </div>
+      <div>
+        {{ item.notes | markdownify }}
+      </div>
+    </div>
     {% endfor %}
 
 <div class="row">
