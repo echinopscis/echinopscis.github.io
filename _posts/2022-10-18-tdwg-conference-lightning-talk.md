@@ -20,13 +20,14 @@ slides:
   - img: /assets/images/tdwg2022-ltd14/Slide4.PNG
     img_alt: "Explain community context - where we're focussing"
     notes: |
-      We're focussing on tools for researchers in this project, though we aim that data generated here will feed into more automated approaches. We also want to try to help make discussions about the digital extended specimen a little more concrete, by having actual examples and workflows that can be used as the basis for discussions and planning.
+      We're focussing on tools for researchers in this project, though we aim that data generated here will feed into more automated approaches - both by providing expert generated links that can be used as training data, and by allowing experts to verify the outputs of machine learning processes. 
+      We also want to try to help make discussions about the digital extended specimen a little more concrete, by having actual examples and workflows that can be used as the basis for discussions and planning.
   - img: /assets/images/tdwg2022-ltd14/Slide5.PNG
     img_alt: "Based on existing software (Obsidian) - its attributes"
     notes: |
       We're basing this work on an existing piece of software - [Obsidian](https://obsidian.md).
       We said that we're trying to bring across useful working practices from software development to research management - *reuse* is a core principle in software development and here we're trying to build on an existing toolset and supportive community to allow us to make faster progress.
-    We have a biodiversity crisis: faster progress - and wider participation - is vital. 
+      We have a biodiversity crisis: faster progress - and wider participation - is vital. 
   - img: /assets/images/tdwg2022-ltd14/Slide6.PNG
     img_alt: "Attributes should be familiar  - shared with Open Refine"
     notes: |
@@ -34,7 +35,7 @@ slides:
   - img: /assets/images/tdwg2022-ltd14/Slide7.PNG
     img_alt: "Extend Obsidian for specimen research"
     notes: |
-      What we've done - extended Obsidian for specimen research, by developing a set of plugins that allow a researcher to access data: specimens from [GBIF](https://www.gbif.org), names from the [International Plant Names Index](https://www.ipni.org), collections from the [Global Registry of Scientific Collections](), people from [Bionomia](https://bionomia.net) and literature from [crossref](https://crossref.org). The demo software includes a worked example showing the creation of links, and spatial and network exploration of linked data. The demo also shows how key entities (specimens) can be cited in new work, promoting open science working practices.  
+      What we've done - extended Obsidian for specimen research, by developing a set of plugins that allow a researcher to access data: specimens from [GBIF](https://www.gbif.org), names from the [International Plant Names Index](https://www.ipni.org), collections from the [Global Registry of Scientific Collections](https://www.gbif.org/grscicoll), people from [Bionomia](https://bionomia.net) and literature from [crossref](https://crossref.org). The demo software includes a worked example showing the creation of links, and spatial and network exploration of linked data. The demo also shows how key entities (specimens) can be cited in new work, promoting open science working practices.  
   - img: /assets/images/tdwg2022-ltd14/Slide8.PNG
     img_alt: "Demo screenshot"
     notes: "Demo"
