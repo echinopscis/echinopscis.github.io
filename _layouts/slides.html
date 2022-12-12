@@ -17,7 +17,7 @@ description: Slide layout template
         {{ item.notes | markdownify }}
         <small>
           {% if item.video_offset %}
-            Jump to <a href="{{ page.vimeo_link_simple }}#t={{ item.video_offset }}">{{ item.video_offset}} </a>
+            Jump to <a href="{{ page.vimeo_link_simple }}#t={{ item.video_offset }}" target="_blank">{{ item.video_offset}}</a>
           {% endif %}
         </small>
       </div>
