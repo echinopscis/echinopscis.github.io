@@ -5,9 +5,10 @@
 
 .slide {
 	border-top: 3px solid #666;
-	// display: flex;
-	// align-items: flex-start;
-	// flex-wrap: wrap;
+	display: flex;
+   	align-items: flex-start;
+   	justify-content: space-between;
+	flex-wrap: wrap;
 	img {
 		float: left;
 		margin: 10px 10px 10px 0;
