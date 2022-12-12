@@ -4,7 +4,7 @@ description: Slide layout template
 ---
 <div class="row">
   {% if page.vimeo_link %}
-    <iframe src="{{ page.vimeo_link }}" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+    <iframe src="{{ page.vimeo_link_embed }}" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
   {% endif %}
 </div>
     {% for item in page.slides %}
@@ -17,7 +17,7 @@ description: Slide layout template
         {{ item.notes | markdownify }}
         <small>
           {% if item.video_offset %}
-            Jump to <a href="{{ page.vimeo_link }}?offset={{item.video_offset}}">item.video_offset</a>
+            Jump to <a href="{{ page.vimeo_link_simple }}?offset={{ item.video_offset }}">{{ item.video_offset}} </a>
           {% endif %}
         </small>
       </div>

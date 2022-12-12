@@ -48,5 +48,6 @@ slides:
     img_alt: "Links"
     notes: |
       Links 
-vimeo_link: https://player.vimeo.com/video/762130677?h=997405b126
+vimeo_link_embed: https://player.vimeo.com/video/762130677?h=997405b126
+vimeo_link_simple: https://vimeo.com/video/762130677
 ---
