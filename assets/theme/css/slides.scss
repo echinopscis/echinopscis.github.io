@@ -6,10 +6,10 @@
 .sliderow {
 	border-top: 3px solid #666;
 	display: flex;
-}
-.slidecol {
-	flex: 40%;
-	img {
-		all: unset;
+	.slidecol {
+		flex: 40%;
+		img {
+			all: unset;
+		}
 	}
 }
