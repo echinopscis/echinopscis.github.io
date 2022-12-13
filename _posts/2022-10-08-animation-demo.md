@@ -1,6 +1,6 @@
 ---
 title: Animating the build of a research environment network
-date: 2023-10-10 12:00
+date: 2022-10-08 12:00
 categories: [Guides]
 twitter_description: "Post describing how an animated build of a research environment network was created, as part of a digitisation demonstration."
 ---
@@ -35,6 +35,3 @@ Final version of the animation is available here:
 
 We also showed some hard-copy resources to show how specimens are used in evidence in scientific literature. We colour coded labels on these to link up with the digital data shown onscreen.
 
-## De-brief
-
-- We should use extra differentiators like shape or icon when displaying the network for accessibility.
