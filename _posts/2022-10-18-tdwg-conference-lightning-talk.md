@@ -4,6 +4,7 @@ date: 2022-10-18 12:00
 categories: [Talks]
 twitter_description: 'Video and annotated slide deck for lightning talk "Open science tools: Supporting hands-on creation of the \"digital extended specimen\"" from the Biodiversity Information Standards 2022 conference in Sofia, Bulgaria.'
 layout: slides
+intro: 'Video and annotated slide deck for lightning talk "Open science tools: Supporting hands-on creation of the \"digital extended specimen\"" from the Biodiversity Information Standards 2022 conference in Sofia, Bulgaria. Abstract: [doi:10.3897/biss.6.91123](https://doi.org/10.3897/biss.6.91123)'
 slides:
   - img: /assets/images/tdwg2022-ltd14/Slide1.PNG
     img_alt: "Open science tools: Supporting hands-on creation of the “digital extended specimen”"
