@@ -60,10 +60,10 @@ slides:
       Some links to more information and contact details.  
 
       - Echinopscis:
-        - Project site (background, installation instructions, roadmap, ideas for contributions): https://echinopscis.github.io
-        - Code repositories and documentation: https://github.com/echinopscis
+        - Project site (background, installation instructions, roadmap, ideas for contributions): [https://echinopscis.github.io](https://echinopscis.github.io)
+        - Code repositories and documentation: [https://github.com/echinopscis](https://github.com/echinopscis)
       - Obsidian:
-        - https://obsidian.md
+        - [https://obsidian.md](https://obsidian.md)
       
       You can find me on github, my handle is [@nickynicolson](https://github.com/nickynicolson). Since I wrote these slides I've moved from twitter (where some old stuff is still available at [@nickynicolson](https://twitter.com/nickynicolson)) to Mastodon where I am [@nickynicolson@mastodon.social](https://mastodon.social/@nickynicolson)
     video_offset: 14m41s
