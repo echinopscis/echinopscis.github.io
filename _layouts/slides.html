@@ -2,9 +2,9 @@
 layout: base
 description: Slide layout template
 ---
-{% if page.intro %}
+{% if content %}
   <div class="row">
-    {{ page.intro | markdownify }}
+    {{ content }}
   </div>
 {% endif %}
 

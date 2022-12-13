@@ -3,8 +3,9 @@ title: Biodiversity Information Standards lightning talk
 date: 2022-10-18 12:00
 categories: [Talks]
 twitter_description: 'Video and annotated slide deck for lightning talk "Open science tools: Supporting hands-on creation of the \"digital extended specimen\"" from the Biodiversity Information Standards 2022 conference in Sofia, Bulgaria.'
+background: "/assets/backgrounds/photo-1594803294810-c860e5d29e07.jpg"
+background_alt: "Image by Ivan Nedelchev (unsplash)"
 layout: slides
-intro: 'Video and annotated slide deck for lightning talk "Open science tools: Supporting hands-on creation of the \"digital extended specimen\"" from the Biodiversity Information Standards 2022 conference in Sofia, Bulgaria. Abstract: [doi:10.3897/biss.6.91123](https://doi.org/10.3897/biss.6.91123)'
 slides:
   - img: /assets/images/tdwg2022-ltd14/Slide1.PNG
     img_alt: "Open science tools: Supporting hands-on creation of the “digital extended specimen”"
@@ -61,3 +62,5 @@ slides:
 vimeo_link_embed: https://player.vimeo.com/video/762130677?h=997405b126
 vimeo_link_simple: https://vimeo.com/762130677
 ---
+
+Video and annotated slide deck for lightning talk "Open science tools: Supporting hands-on creation of the \"digital extended specimen\"" from the Biodiversity Information Standards 2022 conference in Sofia, Bulgaria. Abstract: [doi:10.3897/biss.6.91123](https://doi.org/10.3897/biss.6.91123)
