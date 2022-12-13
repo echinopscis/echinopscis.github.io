@@ -26,19 +26,19 @@ slides:
     img_alt: "Large scale community aims - like the digitial extended specimen"
     notes: |
       The work to define and build the digital extended specimen can advance using a lot of different techniques, learning as we go.
-  - img: /assets/images/tdwg2022-ltd14/Slide5.PNG
+  - img: /assets/images/ai4ns-2022/Slide5.PNG  
     img_alt: "GBIF clustering"
     notes: |
       We can contribute to large scale machine learning approaches, like the [clustering and specimen duplicate detection](https://www.gbif.org/news/4U1dz8LygQvqIywiRIRpAU/new-data-clustering-feature-aims-to-improve-data-quality-and-reveal-cross-dataset-connections) run on the GBIF data portal...
-  - img: /assets/images/tdwg2022-ltd14/Slide6.PNG
+  - img: /assets/images/ai4ns-2022/Slide6.PNG  
     img_alt: "Hands on tools for taxonomists"
     notes: |
       ... to hands-on tools for researchers. These toolkits can allow them to generate data for machine learning applications in-context, as they conduct their research, and to verify the outputs of more automated approaches. [echinopscis.github.io](https://echinopscis.github.io)
-  - img: /assets/images/tdwg2022-ltd14/Slide7.PNG
+  - img: /assets/images/ai4ns-2022/Slide7.PNG  
     img_alt: "Representation learning"
     notes: |
       We're also working to develop representations of specimens that allow researchers to interact with the large scale image data in different ways. Walker BE, Tucker A, Nicolson N. Harnessing Large-Scale Herbarium Image Datasets Through Representation Learning. Front Plant Sci. 2022 [doi:10.3389/fpls.2021.806407](https://doi.org/10.3389/fpls.2021.806407)
-  - img: /assets/images/tdwg2022-ltd14/Slide8.PNG
+  - img: /assets/images/ai4ns-2022/Slide8.PNG  
     img_alt: "Type deposition networks"
     notes: |
       ... and we're exploring some of the patterns of resource allocation, looking at type citations and if the institutions into which types specimens are lodged are changing over time. This is our first link-up with a digitial humanities research group.
