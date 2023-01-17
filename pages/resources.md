@@ -5,6 +5,8 @@ permalink: /resources/
 toc: true
 ---
 
+## Obsidian
+
 We chose Obsidian as the basis of this prototype due to its active user community. Some useful learning resources and places to see different kinds of uses of the software are:
 
 - [Official help][obsdmd-help]
@@ -22,3 +24,7 @@ We chose Obsidian as the basis of this prototype due to its active user communit
 [obsdmd-tech]: https://marcus.se.net/obsidian-plugin-docs/
 [obsdmd-tw-search]: https://twitter.com/search?q=obsdmd
 [obsdmd-tw-acc]: https://twitter.com/obsdmd
+
+## References
+
+{% bibliography %}
