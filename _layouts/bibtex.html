@@ -1,13 +1,26 @@
 ---
 ---
-<html>
-<head></head>
-<body>
+
+<div class="row">
+  {% if page.toc %}
+  <div class="col-md-10 col-lg-3 mx-auto">
+    <div class="toc">
+      <h6>On this page</h6>
+      {% include toc.html
+        html=content
+        sanitize=true
+        h_min=2
+        h_max=3
+      %}
+    </div>
+  </div>
+  {% endif %}
+  <div class="col-md-10 col-lg-8 order-lg-first mx-auto">
   <h1>{{ page.entry.title }}</h1>
   <h2>{{ page.entry.author }}</h2>
   <p>{{ page.entry.abstract }}</p>
   {% if page.entry.doi %}
     <a href="https://doi.org/{{ page.entry.doi }}">{{ page.entry.doi }}</a>
   {% endif %}
-</body>
-</html>
+</div>
+</div>
