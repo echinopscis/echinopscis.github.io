@@ -70,8 +70,8 @@ scholar:
   style: elsevier-harvard
   locale: en
 
-  sort_by: none
-  order: ascending
+  sort_by: year
+  order: descending
 
   source: ./_bibliography
   bibliography: references.bib
@@ -79,5 +79,9 @@ scholar:
   details_dir:    bibliography
   details_layout: bibtex.html
   details_link:   Details
+
+  reference_tagname: div
+  bibliography_list_tag: ul
+  bibliography_template: bib
 
   query: "@*"  

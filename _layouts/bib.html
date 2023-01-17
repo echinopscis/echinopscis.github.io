@@ -1,0 +1,10 @@
+---
+---
+
+{% capture todel %}{{ 'Retrieved from ' | append: entry.url}}{% endcapture %}
+
+{{ reference | remove: todel}}
+
+{% if entry.note %}
+	{{ entry.note }}. <br/>
+{% endif %}
