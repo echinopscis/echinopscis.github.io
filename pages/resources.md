@@ -27,4 +27,4 @@ We chose Obsidian as the basis of this prototype due to its active user communit
 
 ## References
 
-{% bibliography %}
+{% bibliography | markdownify %}
