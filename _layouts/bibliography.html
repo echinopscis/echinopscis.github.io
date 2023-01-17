@@ -1,0 +1,42 @@
+---
+layout: base
+description: Default template for pages and posts, with contained width
+---
+
+<div class="row">
+  {% if page.toc %}
+  <div class="col-md-10 col-lg-3 mx-auto">
+    <div class="toc">
+      <h6>On this page</h6>
+      {% include toc.html
+        html=content
+        sanitize=true
+        h_min=2
+        h_max=3
+      %}
+    </div>
+  </div>
+  {% endif %}
+  <div class="col-md-10 col-lg-8 order-lg-first mx-auto">
+
+    {{ content | markdownify}}
+
+    {% if page.comments %}
+        <script src="https://giscus.app/client.js"
+            data-repo="echinopscis/echinopscis-discussions"
+            data-repo-id="R_kgDOH-mVHQ"
+            data-category="Announcements"
+            data-category-id="DIC_kwDOH-mVHc4CRYFz"
+            data-mapping="pathname"
+            data-strict="0"
+            data-reactions-enabled="1"
+            data-emit-metadata="0"
+            data-input-position="bottom"
+            data-theme="light"
+            data-lang="en"
+            crossorigin="anonymous"
+            async>
+        </script>
+    {% endif %}
+  </div>
+</div>

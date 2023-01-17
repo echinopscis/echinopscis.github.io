@@ -3,6 +3,7 @@ title: Resources
 description: Useful resources for working with Obsidian
 permalink: /resources/
 toc: true
+layout: bibliography
 ---
 
 ## Obsidian
