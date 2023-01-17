@@ -39,6 +39,7 @@ exclude:
   - package-lock.json
   - package.json
   - petridish.gemspec
+exclude: [vendor]
 
 # FRONTMATTER DEFAULTS
 defaults:
