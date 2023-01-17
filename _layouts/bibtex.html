@@ -1,6 +1,6 @@
 ---
 layout: base
-description: Default template for bibtex detail entries
+description: Reference details
 ---
 
 <div class="row">
@@ -18,8 +18,8 @@ description: Default template for bibtex detail entries
   </div>
   {% endif %}
   <div class="col-md-10 col-lg-8 order-lg-first mx-auto">
-  <h1>{{ page.entry.title }}</h1>
-  <h2>{{ page.entry.author }}</h2>
+  <h2>{{ page.entry.title }}</h2>
+  <h3>{{ page.entry.author }}</h3>
   <p>{{ page.entry.abstract }}</p>
   {% if page.entry.doi %}
     <a href="https://doi.org/{{ page.entry.doi }}">{{ page.entry.doi }}</a>
