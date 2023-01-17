@@ -3,6 +3,7 @@ group :jekyll_plugins do
     #gem 'github-pages'
     gem "jekyll", "~> 4.2.0"
     gem 'jekyll-feed'
+    gem 'jekyll-sitemap'
     gem 'jekyll-github-metadata'
     gem 'jekyll-paginate-v2'
     gem 'jekyll-scholar'
