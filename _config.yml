@@ -68,3 +68,16 @@ defaults:
 
 scholar:
   style: _bibliography/elsevier_harvard_local.csl
+  locale: en
+
+  sort_by: none
+  order: ascending
+
+  source: ./_bibliography
+  bibliography: references.bib
+
+  details_dir:    bibliography
+  details_layout: bibtex.html
+  details_link:   Details
+
+  query: "@*"  
