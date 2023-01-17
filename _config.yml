@@ -66,3 +66,5 @@ defaults:
       background_alt: "Image credit: https://commons.wikimedia.org/wiki/User:Salicyna (CC-BY-SA4)"
       echinopscis_version: "0.1.7"
 
+scholar:
+  style: _bibliography/elsevier_harvard_local.cls
