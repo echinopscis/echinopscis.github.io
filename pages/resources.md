@@ -3,7 +3,6 @@ title: Resources
 description: Useful resources for working with Obsidian
 permalink: /resources/
 toc: true
-layout: bibliography
 ---
 
 ## Obsidian
@@ -25,7 +24,3 @@ We chose Obsidian as the basis of this prototype due to its active user communit
 [obsdmd-tech]: https://marcus.se.net/obsidian-plugin-docs/
 [obsdmd-tw-search]: https://twitter.com/search?q=obsdmd
 [obsdmd-tw-acc]: https://twitter.com/obsdmd
-
-## References
-
-{% bibliography %}
