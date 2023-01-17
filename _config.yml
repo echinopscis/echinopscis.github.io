@@ -67,4 +67,4 @@ defaults:
       echinopscis_version: "0.1.7"
 
 scholar:
-  style: _bibliography/elsevier_harvard_local.cls
+  style: _bibliography/elsevier_harvard_local.csl
