@@ -1,0 +1,13 @@
+---
+---
+<html>
+<head></head>
+<body>
+  <h1>{{ page.entry.title }}</h1>
+  <h2>{{ page.entry.author }}</h2>
+  <p>{{ page.entry.abstract }}</p>
+  {% if page.entry.doi %}
+    <a href="https://doi.org/{{ page.entry.doi }}">{{ page.entry.doi }}</a>
+  {% endif %}
+</body>
+</html>
