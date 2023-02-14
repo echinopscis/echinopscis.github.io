@@ -3,8 +3,8 @@ title: "DiSSCo futures keynote - Digital infrastructures: context & future"
 date: 2023-02-09 12:00
 categories: [Talks]
 twitter_description: 'Annotated slide deck for keynote talk "Digital infrastructures: context & future" from the DISSCO futures event held on 7-9th February at the Royal Library of Belgium, Brussels.'
-# background: "/assets/backgrounds/photo-1594803294810-c860e5d29e07.jpg"
-# background_alt: "Image by Ivan Nedelchev (unsplash)"
+background: "/assets/images/dissco-header.png"
+background_alt: "DISSCO header from https://www.dissco.eu/wp-content/uploads/particles-2.svg"
 layout: slides
 slides:
   - img: /assets/images/dissco-futures/Slide1.PNG
@@ -18,15 +18,15 @@ slides:
   - img: /assets/images/dissco-futures/Slide3.PNG
     img_alt: "Context: personal and institutional"
     notes: |
-      My career has been in biodiversity informatics but I transitioned mid-career from software development into research. I'm interested in open science, take-up & how we design & build for participation. In moving over to research, I've been keen to explore how we can use software development practices to faciltate research, especially to make our work more explicit and reusable. These range form quite technical practices (reuse, automation, version control, dependency management, continuous integration etc) but also processes about communication, design & inclusion.
+      My career has been in biodiversity informatics but I transitioned mid-career from software development into research. I'm interested in open science (particularly it's take-up) & how we design & build for participation. In moving over to research, I've been keen to explore how we can use software development practices to facilitate research, especially to make our work more explicit and reusable. These range from quite technical practices (reuse, automation, version control, dependency management, continuous integration etc) but also processes about communication, design & inclusion.
   - img: /assets/images/dissco-futures/Slide4.PNG
     img_alt: "Where we are today: botanical information online"
     notes: |
       I'm going to focus on progress with botanical collections...
-      We've digitised a huge amount of data and made it available online - 88 million metadata records and 38 million images (figures from gbif.org). We also have comprehensive taxonomies and distributional data that we can use to manage and explore this data, and digitised and born-digital literature provides context for how these data have been used as evidence. We also have metadata records about collections institutes and their staff.
+      We've digitised a huge amount of data and made it available online - 88 million metadata records and 38 million images (figures from [gbif.org](https://gbif.org)). We also have comprehensive taxonomies and distributional data that we can use to manage and explore this data, and digitised and born-digital literature provides context for how these data have been used as evidence. We also have metadata records about collections institutes and their staff (see eg the [Global Registry of Scientific Collections](https://www.gbif.org/grscicoll)).
       Building on this data and expertise, we've been investigating how we can apply new techniques like machine learning to botanical data and images.
       In terms of where we do computational work, we have compute available for researchers to use in environments that are pre-populated with data - all the researcher needs to do is bring their idea.
-      Finally - we now have a much more explicit understanding of the different activities that are involved in specimen research and curation - see for example the Bionomia project.
+      Finally - we now have a much more explicit understanding of the different activities that are involved in specimen research and curation - see for example the [Bionomia](https://bionomia.net/) project which crowdsources the attribution of specimens to the researchers who have collected or identified them.
   - img: /assets/images/dissco-futures/Slide5.PNG
     img_alt: "Wider context: evolving research culture"
     notes: |
@@ -65,11 +65,11 @@ slides:
   - img: /assets/images/dissco-futures/Slide13.PNG
     img_alt: "Getting to our DEStination"
     notes: |
-      We won't get to a fundamental shift in a single step, but we can safely transition in small steps
+      We won't make a fundamental shift in a single step, but we can safely transition in small steps
   - img: /assets/images/dissco-futures/Slide14.PNG
     img_alt: "Conclusions"
     notes: |
-      When we're thinking about infrastructure, let's remember its also people and their working environments. When we're planning future directions, let's think about how we do research and who is involved. Longer term aims like the digitial extended specimen can be discussed more meaningfully if we include people where they are now, show a relevant path to destination
+      When we're thinking about infrastructure, let's remember its also about people and their working environments. When we're planning future directions, let's think about how we do research and who is involved. Longer term aims like the digital extended specimen can be discussed more meaningfully if we include people where they are now, speak a common language and show a relevant path to destination.
   - img: /assets/images/dissco-futures/Slide16.PNG
     img_alt: "Contacts and links"
     notes: |
