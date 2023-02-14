@@ -3,7 +3,7 @@ title: "DiSSCo futures keynote - Digital infrastructures: context & future"
 date: 2023-02-09 12:00
 categories: [Talks]
 twitter_description: 'Annotated slide deck for keynote talk "Digital infrastructures: context & future" from the DISSCO futures event held on 7-9th February at the Royal Library of Belgium, Brussels.'
-background: "/assets/images/dissco-header.png"
+background: "/assets/images/dissco-futures/dissco-header.png"
 background_alt: "DISSCO header from https://www.dissco.eu/wp-content/uploads/particles-2.svg"
 layout: slides
 slides:
