@@ -9,7 +9,7 @@ layout: slides
 slides:
   - img: /assets/images/dissco-futures/Slide1.PNG
     img_alt: "Digital infrastructures: context & future"
-    notes:       
+    notes: Title slide       
   - img: /assets/images/dissco-futures/Slide2.PNG
     img_alt: "Aim"
     notes: |
