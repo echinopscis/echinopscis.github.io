@@ -12,6 +12,8 @@
   menu: # Dropdown menu (one level deep only)
   - text: Background
     href: /background/
+  - text: Open Canvas
+    href: /open-canvas/
   - text: Roadmap
     href: /roadmap/
   - text: Resources
