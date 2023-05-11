@@ -2,7 +2,7 @@
 title: Open Canvas
 description: Open canvas overview of the project
 permalink: /open-canvas/
-toc: true
+toc: false
 ---
 
 This is an "open canvas" single page view of the echinopscis project. It was built via our participation in the [Open Life Sciences](https://openlifesci.org/) program which recommends its use as a thinking and discussion tool - the concept was modified from the Mozilla Open Leaders programme, who adapted it from [lean canvas](https://leanstack.com/lean-canvas/). The layout is used under CC-BY-3.0.
