@@ -1,3 +1,10 @@
+---
+title: Code of Conduct
+description: The Code of Conduct (Contributor Covenant) used in the echinopscis project
+permalink: /code_of_conduct/
+toc: true
+---
+
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
