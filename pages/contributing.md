@@ -23,3 +23,7 @@ We welcome contributions - and these don't have to be technical in nature - feat
 
 ## Why use github?
 Our colleagues at [GBIF](https://github.com/GBIF), [Atlas of Living Australia](https://github.com/AtlasOfLivingAustralia), [iDigBio](https://github.com/iDigBio), [Biodiversity Information Standards (TDWG)](https://github.com/TDWG) and many other organisations use github to manage their projects  - including documentation and community-building as well as the management of technical resources like source code. If you've ever submitted feedback or reported a problem via the  GBIF data portal, your report would have resulted in a ["portal-feedback"](https://github.com/gbif/portal-feedback) github issue, meaning that other users have maximum visibility of known issues, work-arounds and fixes. Management of issues and proposed features "in the open" also enables users to participate in prioritisation. The github environment is well-documented and many open science resources are available which explain how to use it. In the future, if it is necessary to move from github to a different platform, we would be able to collaborate and learn from our colleagues about how best to do this.  
+
+## Code of conduct
+
+We ask all participants to respect the [code of conduct](/code_of_conduct/) for this project. 
