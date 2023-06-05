@@ -12,6 +12,10 @@
   menu: # Dropdown menu (one level deep only)
   - text: Background
     href: /background/
+  - text: Vision
+    href: /vision/    
+  - text: Design principles
+    href: /design-principles/    
   - text: Open Canvas
     href: /open-canvas/
   - text: Roadmap

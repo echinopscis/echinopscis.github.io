@@ -5,7 +5,7 @@ permalink: /contributing/
 toc: true
 ---
 
-We welcome contributions - and these don't have to be technical in nature - feature requests, questions and suggestions are all helpful. These are all managed as github issues - so you'll need to [sign up for a github login](https://github.com/signup), and then you can add issues or comment on existing discussions.
+We welcome contributions - and these don't have to be technical in nature - feature requests, questions and suggestions are all helpful. These are all managed as github issues - so you'll need to [sign up for a github login](https://github.com/signup), and then you can add issues or comment on existing [discussions](https://github.com/orgs/echinopscis/discussions).
 
 ## Ideas for potential contributions
 
