@@ -5,7 +5,8 @@ description: An extensible notebook for open science on specimens
 permalink: /
 ---
 
-"echinopscis” is an “extensible notebook for open science on specimens”.  It is an experiment to support creative working practices in biodiversity research. 
+echinopscis is an experiment on creating an "extensible notebook for open science on specimens".
+We're a group of biodiversity & informatics researchers trying to make it easier to access the information resources (specimens, literature, descriptions) needed to describe and protect biodiversity. We want to enable flexible working practices, so that researchers can collate and publish work with actionable links to evidence. This effort is part of the groundwork towards the "digital extended specimen".
 
 **Phase 1** is a prototype desktop working environment for biodiversity researchers. This simplifies data access, annotation and linking, supporting published and working hypotheses. Researchers can search data from authoritative sources, store it locally and create links. Data classes currently include literature,  specimens, names, institutions, people and traits. (If something you need is missing, then please tell us.) 
 
