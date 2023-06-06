@@ -6,6 +6,7 @@
   orcid: 0000-0003-3700-4884
   twitter: nickynicolson
   github: nickynicolson
+  mastodon: https://mastodon.social/nickynicolson
   email: n.nicolson@kew.org
 
 - name: Eve Lucas
@@ -14,7 +15,7 @@
   orcid: 0000-0002-7603-435X
     
 - name: Isabel Larridon
-  role: Research leader, Accelerated taxonomy (Africa)
+  role: Priority leader, Accelerated taxonomy 
   image: https://www.kew.org/sites/default/files/styles/person_node/public/2019-07/JE_270619_2042_IsabelLarrindon_sq_0.jpg
   orcid: 0000-0003-0285-722X
   researchgate: Isabel-Larridon
