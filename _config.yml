@@ -9,7 +9,7 @@ author: Nicky Nicolson                    # Used for copyright statement in foot
 
 repository: echinopscis/echinopscis.github.io
 
-remote_theme: peterdesmet/petridish@3.0
+remote_theme: peterdesmet/petridish@2.0
 
 # SOCIAL PROFILES
 email: n.nicolson@kew.org           # Social icon in footer
@@ -18,7 +18,7 @@ twitter_image: /assets/images/twitter_card.png
 github_username: nickynicolson            # Social icon in footer
 
 # THEME SETTINGS (ALL OPTIONAL)
-posts_on_home: 3                        # Show x number of latest posts on homepage, can be 0
+posts_on_home: 4                        # Show x number of latest posts on homepage, can be 0
 tweets_on_home: false                    # Show Twitter feed of twitter_username on homepage
 archive_permalink: /blog/               # Permalink of page using archive.html layout, required when using post categories
 colors:
