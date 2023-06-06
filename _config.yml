@@ -9,7 +9,7 @@ author: Nicky Nicolson                    # Used for copyright statement in foot
 
 repository: echinopscis/echinopscis.github.io
 
-remote_theme: peterdesmet/petridish@2.0
+remote_theme: peterdesmet/petridish@3.0
 
 # SOCIAL PROFILES
 email: n.nicolson@kew.org           # Social icon in footer
