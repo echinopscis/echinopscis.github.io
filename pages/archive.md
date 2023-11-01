@@ -1,8 +1,48 @@
 ---
-layout: archive
+layout: base
 title: News
 description: News & blog posts
 permalink: /blog/
 ---
 
-<!-- Content here would shop up above your list of posts -->
+<div class="row">
+  <div class="col">
+
+    {{ content }}
+  
+  </div>
+</div>
+
+<div class="row cards">
+  {% for item in site.posts %}
+    <div class="col-md-6 col-lg-4">
+      {% include card.html %}
+    </div>
+  {% endfor %}
+</div>
+
+<script>
+  // Filter cards on ?tag=value
+  $(document).ready(function() {
+    const urlParams = new URLSearchParams(window.location.search);
+    
+    if (urlParams.has("tag") && urlParams.get("tag") != "") {
+      const tag = urlParams.get("tag"); // Will return 1st tag value + decode URI
+      const cleanTag = $.trim(tag.toLowerCase()); // Create tag as written in .card data-tags
+      
+      $(".card").each(function() {
+        const cardTags = $(this).data("tags").split("|");
+        // Hide card if it does not contain the selected tag
+        if (!cardTags.includes(cleanTag)) {
+          $(this).parent().addClass("d-none");
+        }
+      });
+
+      $(".header .tags").append(
+        '<a class="badge{% if site.rounded_corners != false %} rounded-pill{% endif %}" href="{{ site.archive_permalink | relative_url }}">' + 
+        tag + '<span class="btn-close btn-close-white"></span>' + 
+        '</a>'
+      );
+    }
+  });
+</script>
