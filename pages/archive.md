@@ -5,14 +5,6 @@ description: News & blog posts
 permalink: /blog/
 ---
 
-<div class="row">
-  <div class="col">
-
-    {{ content }}
-  
-  </div>
-</div>
-
 <div class="row cards">
   {% for item in site.posts %}
     <div class="col-md-6 col-lg-4">
