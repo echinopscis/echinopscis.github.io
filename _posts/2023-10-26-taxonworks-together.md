@@ -58,5 +58,5 @@ Could we develop equivalents for:
 
 ## Useful links
 
-- Slidedeck (link TBC), talk recording (link TBC)
+- [Slidedeck](https://together.taxonworks.org/2023/talks/nicolson-twt2023.pdf), talk recording (link TBC)
 - echinopscis discussion board: [github.com/orgs/echinopscis/discussions](https://github.com/orgs/echinopscis/discussions)
